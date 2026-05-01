@@ -1,6 +1,6 @@
 <div align="right">
 
-[English](./SKILL_README_en.md) | [中文](./SKILL_README_zh.md)
+[English](./README_en.md) | [中文](./README_zh.md)
 
 </div>
 
@@ -205,6 +205,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 <div align="center">
 
-**[English](./SKILL_README_en.md)** | **[中文](./SKILL_README_zh.md)**
+**[English](./README_en.md)** | **[中文](./README_zh.md)**
 
 </div>
